@@ -1,2 +1,0 @@
-# dompetasis
-Catat Transaksimu
